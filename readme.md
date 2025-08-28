@@ -33,7 +33,7 @@ This project also includes a sample **Signup Form** styled with **Tailwind CSS**
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/formik-custom-input.git
+git clone https://github.com/Vandan-Bhangale/formik-custom-input.git
 npm install
 npm run dev   # For Vite
 ```
